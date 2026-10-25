@@ -101,10 +101,10 @@ The project opens on `TestLevel` (`Content/MyStuff/Levels`) by default.
 
 | Action | Input |
 |--------|-------|
-| Move | <!-- TODO: keys, e.g. WASD --> |
+| Move | WASD |
 | Look | Mouse |
-| Jump | <!-- TODO: key --> |
-| Shoot | <!-- TODO: button --> |
+| Jump | SpaceBar |
+| Shoot | LeftClick |
 
 Bindings live in the input mapping contexts assigned to the player controller (`DefaultMappingContexts`).
 
